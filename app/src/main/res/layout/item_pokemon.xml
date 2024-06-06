@@ -34,7 +34,7 @@
             android:textColor="@color/black"
             android:textSize="30sp"
             android:textStyle="bold"
-            android:text="Pokémon Name"/>
+            android:text="Pokémon"/>
 
         <TextView
             android:id="@+id/tv_pokenum"
