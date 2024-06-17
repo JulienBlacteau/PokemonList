@@ -10,6 +10,7 @@ import android.widget.ImageView
 import android.widget.TextView
 import androidx.recyclerview.widget.RecyclerView
 import com.bumptech.glide.Glide
+import com.bumptech.glide.load.engine.DiskCacheStrategy
 import com.bumptech.glide.request.target.CustomViewTarget
 import com.bumptech.glide.request.transition.Transition
 
@@ -33,7 +34,7 @@ class RecyclerAdapter(val context: Context, val items: ArrayList<Pokemon>) : Rec
         Glide.with(holder.itemView.context)
             .load(item.imageUrl)
             .placeholder(R.drawable.pokeblack)
-            .skipMemoryCache(true)
+
             .into(holder.img_pokemon)
 
         Log.e("RecyclerAdapter", "onBindViewHolder: Chargement de l'image initié")
@@ -41,7 +42,6 @@ class RecyclerAdapter(val context: Context, val items: ArrayList<Pokemon>) : Rec
         Glide.with(holder.itemView.context)
             .load(item.imageUrl)
             .placeholder(R.drawable.pokeblack)
-            .skipMemoryCache(true)
             .into(object : CustomViewTarget<ImageView, Drawable>(holder.img_pokemon) {
                 override fun onLoadFailed(errorDrawable: Drawable?) {
                     Log.e("RecyclerAdapter", "Glide onLoadFailed: Impossible de charger l'image depuis l'URL: ${item.imageUrl}") // à partir de #032

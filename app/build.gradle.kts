@@ -45,6 +45,8 @@ dependencies {
 
     implementation("androidx.recyclerview:recyclerview:1.3.2")
 
+    implementation ("org.jetbrains.kotlinx:kotlinx-coroutines-android:1.5.0")
+
     implementation("com.github.bumptech.glide:glide:4.12.0")
     annotationProcessor("com.github.bumptech.glide:compiler:4.12.0")
 
