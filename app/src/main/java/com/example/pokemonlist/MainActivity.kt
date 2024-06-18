@@ -34,8 +34,13 @@ class MainActivity : AppCompatActivity() {
                     val name = pokemon.getString("name")
                     val number = pokemon.getString("number")
                     val imageUrl = pokemon.getString("imageUrl")
+                    val types = pokemon.getString("types")
+                    val height = pokemon.getString("height")
+                    val weight = pokemon.getString("weight")
+                    val description = pokemon.getString("description")
+                    val evolution = pokemon.getString("evolution")
 
-                    val pokemonDetails = Pokemon(name, number, imageUrl)
+                    val pokemonDetails = Pokemon(name, number, imageUrl, types, height, weight, description, evolution)
                     pokemonList.add(pokemonDetails)
                 }
             } catch (e: JSONException) {

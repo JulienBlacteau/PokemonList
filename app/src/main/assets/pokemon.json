@@ -3,1361 +3,1512 @@
     {
       "name": "Bulbizarre",
       "number": "#001",
-      "imageUrl": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/001.png",
+      "imageUrl": "https://www.pokebip.com/pokedex-images/300/1.png?v=ev-blueberry",
       "types": ["Plante", "Poison"],
       "height": "0.7 m",
       "weight": "7 kg",
+      "description": "Bulbizarre est un Pokémon quadrupède de type Plante et Poison. Il porte une plante sur son dos qui grandit avec lui.",
       "evolution": "Herbizarre"
     },
     {
       "name": "Herbizarre",
       "number": "#002",
-      "imageUrl": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/002.png",
+      "imageUrl": "https://www.pokebip.com/pokedex-images/300/2.png?v=ev-blueberry",
       "types": ["Plante", "Poison"],
       "height": "1.0 m",
       "weight": "13 kg",
+      "description": "Herbizarre est la forme évoluée de Bulbizarre. La plante sur son dos a grossi et ressemble maintenant à un bourgeon prêt à éclore.",
       "evolution": "Florizarre"
     },
     {
       "name": "Florizarre",
       "number": "#003",
-      "imageUrl": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/003.png",
+      "imageUrl": "https://www.pokebip.com/pokedex-images/300/3.png?v=ev-blueberry",
       "types": ["Plante", "Poison"],
       "height": "2.0 m",
       "weight": "100 kg",
-      "evolution": "N/A"
+      "description": "Florizarre est la dernière évolution de Bulbizarre. La fleur sur son dos a pleinement éclos et il peut libérer des spores dans l'air.",
+      "evolution": ""
     },
     {
       "name": "Salamèche",
       "number": "#004",
-      "imageUrl": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/004.png",
+      "imageUrl": "https://www.pokebip.com/pokedex-images/300/4.png?v=ev-blueberry",
       "types": ["Feu"],
       "height": "0.6 m",
-      "weight": "8 kg",
+      "weight": "8.5 kg",
+      "description": "Salamèche est un Pokémon de type Feu. Il a une flamme qui brûle au bout de sa queue, symbolisant sa santé et son humeur.",
       "evolution": "Reptincel"
     },
     {
       "name": "Reptincel",
       "number": "#005",
-      "imageUrl": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/005.png",
+      "imageUrl": "https://www.pokebip.com/pokedex-images/300/5.png?v=ev-blueberry",
       "types": ["Feu"],
       "height": "1.1 m",
       "weight": "19 kg",
+      "description": "Reptincel est la forme évoluée de Salamèche. Il est plus agressif et sa flamme brûle plus intensément.",
       "evolution": "Dracaufeu"
     },
     {
       "name": "Dracaufeu",
       "number": "#006",
-      "imageUrl": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/006.png",
+      "imageUrl": "https://www.pokebip.com/pokedex-images/300/6.png?v=ev-blueberry",
       "types": ["Feu", "Vol"],
       "height": "1.7 m",
-      "weight": "90 kg",
-      "evolution": "N/A"
+      "weight": "90.5 kg",
+      "description": "Dracaufeu est la forme finale de Salamèche. Il est un puissant dragon cracheur de feu qui peut voler à grande vitesse.",
+      "evolution": ""
     },
     {
       "name": "Carapuce",
       "number": "#007",
-      "imageUrl": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/007.png",
+      "imageUrl": "https://www.pokebip.com/pokedex-images/300/7.png?v=ev-blueberry",
       "types": ["Eau"],
       "height": "0.5 m",
       "weight": "9 kg",
+      "description": "Carapuce est un Pokémon de type Eau. Il utilise sa carapace dure pour se protéger et attaquer ses ennemis.",
       "evolution": "Carabaffe"
     },
     {
       "name": "Carabaffe",
       "number": "#008",
-      "imageUrl": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/008.png",
+      "imageUrl": "https://www.pokebip.com/pokedex-images/300/8.png?v=ev-blueberry",
       "types": ["Eau"],
       "height": "1.0 m",
-      "weight": "22 kg",
+      "weight": "22.5 kg",
+      "description": "Carabaffe est la forme évoluée de Carapuce. Ses oreilles et sa queue touffue indiquent son âge et son expérience au combat.",
       "evolution": "Tortank"
     },
     {
       "name": "Tortank",
       "number": "#009",
-      "imageUrl": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/009.png",
+      "imageUrl": "https://www.pokebip.com/pokedex-images/300/9.png?v=ev-blueberry",
       "types": ["Eau"],
       "height": "1.6 m",
       "weight": "85.5 kg",
-      "evolution": "N/A"
+      "description": "Tortank est la dernière évolution de Carapuce. Il est équipé de canons à eau puissants capables de détruire des murs en béton.",
+      "evolution": ""
     },
     {
       "name": "Chenipan",
       "number": "#010",
-      "imageUrl": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/010.png",
+      "imageUrl": "https://www.pokebip.com/pokedex-images/300/10.png?v=ev-blueberry",
       "types": ["Insecte"],
       "height": "0.3 m",
-      "weight": "3 kg",
+      "weight": "2.9 kg",
+      "description": "Chenipan est un Pokémon de type Insecte. Il se déplace lentement et laisse une traînée de soie derrière lui.",
       "evolution": "Chrysacier"
     },
     {
       "name": "Chrysacier",
       "number": "#011",
-      "imageUrl": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/011.png",
+      "imageUrl": "https://www.pokebip.com/pokedex-images/300/11.png?v=ev-blueberry",
       "types": ["Insecte"],
       "height": "0.7 m",
-      "weight": "10 kg",
+      "weight": "9.9 kg",
+      "description": "Chrysacier est l'évolution de Chenipan. Son corps est dur et il est en préparation pour évoluer en un papillon.",
       "evolution": "Papilusion"
     },
     {
       "name": "Papilusion",
       "number": "#012",
-      "imageUrl": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/012.png",
+      "imageUrl": "https://www.pokebip.com/pokedex-images/300/12.png?v=ev-blueberry",
       "types": ["Insecte", "Vol"],
       "height": "1.1 m",
-      "weight": "32 kg",
-      "evolution": "N/A"
+      "weight": "32.0 kg",
+      "description": "Papilusion est l'évolution finale de Chenipan. Il utilise ses ailes colorées pour voler et ses antennes pour rechercher du nectar.",
+      "evolution": ""
     },
     {
       "name": "Aspicot",
       "number": "#013",
-      "imageUrl": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/013.png",
+      "imageUrl": "https://www.pokebip.com/pokedex-images/300/13.png?v=ev-blueberry",
       "types": ["Insecte", "Poison"],
       "height": "0.3 m",
-      "weight": "3 kg",
+      "weight": "3.2 kg",
+      "description": "Aspicot est un Pokémon de type Insecte et Poison. Il a une petite pointe sur sa tête qu'il utilise pour se défendre.",
       "evolution": "Coconfort"
     },
     {
       "name": "Coconfort",
       "number": "#014",
-      "imageUrl": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/014.png",
+      "imageUrl": "https://www.pokebip.com/pokedex-images/300/14.png?v=ev-blueberry",
       "types": ["Insecte", "Poison"],
       "height": "0.6 m",
-      "weight": "10 kg",
+      "weight": "10.0 kg",
+      "description": "Coconfort est l'évolution d'Aspicot. Son corps durcit en préparation de sa transformation en un puissant insecte.",
       "evolution": "Dardargnan"
     },
     {
       "name": "Dardargnan",
       "number": "#015",
-      "imageUrl": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/015.png",
+      "imageUrl": "https://www.pokebip.com/pokedex-images/300/15.png?v=ev-blueberry",
       "types": ["Insecte", "Poison"],
       "height": "1.0 m",
       "weight": "29.5 kg",
-      "evolution": "N/A"
+      "description": "Dardargnan est l'évolution finale d'Aspicot. Il possède deux dards puissants sur ses bras qu'il utilise pour attaquer.",
+      "evolution": ""
     },
     {
       "name": "Roucool",
       "number": "#016",
-      "imageUrl": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/016.png",
+      "imageUrl": "https://www.pokebip.com/pokedex-images/300/16.png?v=ev-blueberry",
       "types": ["Normal", "Vol"],
       "height": "0.3 m",
       "weight": "1.8 kg",
+      "description": "Roucool est un Pokémon de type Normal et Vol. Il est connu pour son sens de l'orientation et sa capacité à revenir à son point de départ.",
       "evolution": "Roucoups"
     },
     {
       "name": "Roucoups",
       "number": "#017",
-      "imageUrl": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/017.png",
+      "imageUrl": "https://www.pokebip.com/pokedex-images/300/17.png?v=ev-blueberry",
       "types": ["Normal", "Vol"],
       "height": "1.1 m",
       "weight": "30.0 kg",
+      "description": "Roucoups est l'évolution de Roucool. Plus grand et plus fort, il protège son territoire avec vigilance.",
       "evolution": "Roucarnage"
     },
     {
       "name": "Roucarnage",
       "number": "#018",
-      "imageUrl": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/018.png",
+      "imageUrl": "https://www.pokebip.com/pokedex-images/300/18.png?v=ev-blueberry",
       "types": ["Normal", "Vol"],
       "height": "1.5 m",
       "weight": "39.5 kg",
-      "evolution": "N/A"
+      "description": "Roucarnage est l'évolution finale de Roucool. Il peut voler à des vitesses incroyables et attaquer avec ses puissantes serres.",
+      "evolution": ""
     },
     {
       "name": "Rattata",
       "number": "#019",
-      "imageUrl": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/019.png",
+      "imageUrl": "https://www.pokebip.com/pokedex-images/300/19.png?v=ev-blueberry",
       "types": ["Normal"],
       "height": "0.3 m",
       "weight": "3.5 kg",
+      "description": "Rattata est un Pokémon de type Normal. Rapide et agile, il utilise ses dents acérées pour ronger presque n'importe quoi.",
       "evolution": "Rattatac"
     },
     {
       "name": "Rattatac",
       "number": "#020",
-      "imageUrl": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/020.png",
+      "imageUrl": "https://www.pokebip.com/pokedex-images/300/20.png?v=ev-blueberry",
       "types": ["Normal"],
       "height": "0.7 m",
       "weight": "18.5 kg",
-      "evolution": "N/A"
+      "description": "Rattatac est l'évolution de Rattata. Plus grand et plus agressif, il utilise ses puissantes mâchoires pour mordre ses ennemis.",
+      "evolution": ""
     },
     {
       "name": "Piafabec",
       "number": "#021",
-      "imageUrl": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/021.png",
+      "imageUrl": "https://www.pokebip.com/pokedex-images/300/21.png?v=ev-blueberry",
       "types": ["Normal", "Vol"],
       "height": "0.3 m",
       "weight": "2.0 kg",
+      "description": "Piafabec est un Pokémon de type Normal et Vol. Il est connu pour son cri perçant et sa capacité à voler rapidement pour échapper aux prédateurs.",
       "evolution": "Rapasdepic"
     },
     {
       "name": "Rapasdepic",
       "number": "#022",
-      "imageUrl": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/022.png",
+      "imageUrl": "https://www.pokebip.com/pokedex-images/300/22.png?v=ev-blueberry",
       "types": ["Normal", "Vol"],
       "height": "1.2 m",
       "weight": "38.0 kg",
-      "evolution": "N/A"
+      "description": "Rapasdepic est l'évolution de Piafabec. Il est un puissant prédateur aérien avec une grande envergure et un bec tranchant.",
+      "evolution": ""
     },
     {
       "name": "Abo",
       "number": "#023",
-      "imageUrl": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/023.png",
+      "imageUrl": "https://www.pokebip.com/pokedex-images/300/23.png?v=ev-blueberry",
       "types": ["Poison"],
       "height": "2.0 m",
       "weight": "6.9 kg",
+      "description": "Abo est un Pokémon de type Poison. Il se déplace silencieusement et attaque avec son corps souple et son venin.",
       "evolution": "Arbok"
     },
     {
       "name": "Arbok",
       "number": "#024",
-      "imageUrl": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/024.png",
+      "imageUrl": "https://www.pokebip.com/pokedex-images/300/24.png?v=ev-blueberry",
       "types": ["Poison"],
       "height": "3.5 m",
       "weight": "65.0 kg",
-      "evolution": "N/A"
+      "description": "Arbok est l'évolution d'Abo. Il peut étouffer sa proie avec son corps puissant et intimider ses ennemis avec les motifs sur son capuchon.",
+      "evolution": ""
     },
     {
       "name": "Pikachu",
       "number": "#025",
-      "imageUrl": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/025.png",
+      "imageUrl": "https://www.pokebip.com/pokedex-images/300/25.png?v=ev-blueberry",
       "types": ["Électrik"],
       "height": "0.4 m",
       "weight": "6.0 kg",
+      "description": "Pikachu est un Pokémon de type Électrik. Il stocke de l'électricité dans ses joues et la libère pour attaquer ou se défendre.",
       "evolution": "Raichu"
     },
     {
       "name": "Raichu",
       "number": "#026",
-      "imageUrl": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/026.png",
+      "imageUrl": "https://www.pokebip.com/pokedex-images/300/26.png?v=ev-blueberry",
       "types": ["Électrik"],
       "height": "0.8 m",
       "weight": "30.0 kg",
-      "evolution": "N/A"
+      "description": "Raichu est l'évolution de Pikachu. Il peut générer de puissantes décharges électriques et se déplacer rapidement grâce à l'énergie stockée dans sa queue.",
+      "evolution": ""
     },
     {
       "name": "Sabelette",
       "number": "#027",
-      "imageUrl": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/027.png",
+      "imageUrl": "https://www.pokebip.com/pokedex-images/300/27.png?v=ev-blueberry",
       "types": ["Sol"],
       "height": "0.6 m",
       "weight": "12.0 kg",
+      "description": "Sabelette est un Pokémon de type Sol. Il vit principalement dans les déserts et se cache sous le sable pour se protéger des prédateurs.",
       "evolution": "Sablaireau"
     },
     {
       "name": "Sablaireau",
       "number": "#028",
-      "imageUrl": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/028.png",
+      "imageUrl": "https://www.pokebip.com/pokedex-images/300/28.png?v=ev-blueberry",
       "types": ["Sol"],
       "height": "1.0 m",
       "weight": "29.5 kg",
-      "evolution": "N/A"
+      "description": "Sablaireau est l'évolution de Sabelette. Il utilise ses griffes acérées pour creuser et se défendre contre ses ennemis.",
+      "evolution": ""
     },
     {
       "name": "Nidoran♀",
       "number": "#029",
-      "imageUrl": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/029.png",
+      "imageUrl": "https://www.pokebip.com/pokedex-images/300/29.png?v=ev-blueberry",
       "types": ["Poison"],
       "height": "0.4 m",
       "weight": "7.0 kg",
+      "description": "Nidoran♀ est un Pokémon de type Poison. Elle utilise les pointes sur son dos pour se protéger et attaquer ses ennemis.",
       "evolution": "Nidorina"
     },
     {
       "name": "Nidorina",
       "number": "#030",
-      "imageUrl": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/030.png",
+      "imageUrl": "https://www.pokebip.com/pokedex-images/300/30.png?v=ev-blueberry",
       "types": ["Poison"],
       "height": "0.8 m",
       "weight": "20.0 kg",
+      "description": "Nidorina est l'évolution de Nidoran♀. Plus grande et plus forte, elle protège son territoire avec férocité.",
       "evolution": "Nidoqueen"
     },
     {
       "name": "Nidoqueen",
       "number": "#031",
-      "imageUrl": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/031.png",
+      "imageUrl": "https://www.pokebip.com/pokedex-images/300/31.png?v=ev-blueberry",
       "types": ["Poison", "Sol"],
       "height": "1.3 m",
       "weight": "60.0 kg",
-      "evolution": "N/A"
+      "description": "Nidoqueen est l'évolution finale de Nidoran♀. Elle est extrêmement protectrice envers ses proches et utilise sa force pour les défendre.",
+      "evolution": ""
     },
     {
       "name": "Nidoran♂",
       "number": "#032",
-      "imageUrl": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/032.png",
+      "imageUrl": "https://www.pokebip.com/pokedex-images/300/32.png?v=ev-blueberry",
       "types": ["Poison"],
       "height": "0.5 m",
       "weight": "9.0 kg",
+      "description": "Nidoran♂ est un Pokémon de type Poison. Il utilise les pointes sur ses oreilles pour détecter les dangers et se défendre.",
       "evolution": "Nidorino"
     },
     {
       "name": "Nidorino",
       "number": "#033",
-      "imageUrl": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/033.png",
+      "imageUrl": "https://www.pokebip.com/pokedex-images/300/33.png?v=ev-blueberry",
       "types": ["Poison"],
       "height": "0.9 m",
       "weight": "19.5 kg",
+      "description": "Nidorino est l'évolution de Nidoran♂. Plus agressif, il utilise ses cornes empoisonnées pour combattre ses ennemis.",
       "evolution": "Nidoking"
     },
     {
       "name": "Nidoking",
       "number": "#034",
-      "imageUrl": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/034.png",
+      "imageUrl": "https://www.pokebip.com/pokedex-images/300/34.png?v=ev-blueberry",
       "types": ["Poison", "Sol"],
       "height": "1.4 m",
       "weight": "62.0 kg",
-      "evolution": "N/A"
+      "description": "Nidoking est l'évolution finale de Nidoran♂. Puissant et imposant, il utilise sa force brute et ses attaques empoisonnées pour dominer ses adversaires.",
+      "evolution": ""
     },
     {
       "name": "Mélofée",
       "number": "#035",
-      "imageUrl": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/035.png",
+      "imageUrl": "https://www.pokebip.com/pokedex-images/300/35.png?v=ev-blueberry",
       "types": ["Fée"],
       "height": "0.6 m",
       "weight": "7.5 kg",
+      "description": "Mélofée est un Pokémon de type Fée. Connu pour sa danse mystique au clair de lune, il est souvent entouré d'une aura mystérieuse.",
       "evolution": "Mélodelfe"
     },
     {
       "name": "Mélodelfe",
       "number": "#036",
-      "imageUrl": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/036.png",
+      "imageUrl": "https://www.pokebip.com/pokedex-images/300/36.png?v=ev-blueberry",
       "types": ["Fée"],
       "height": "1.3 m",
       "weight": "40.0 kg",
-      "evolution": "N/A"
+      "description": "Mélodelfe est l'évolution de Mélofée. Il est encore plus rare et mystérieux, capable de marcher sans faire de bruit.",
+      "evolution": ""
     },
     {
       "name": "Goupix",
       "number": "#037",
-      "imageUrl": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/037.png",
+      "imageUrl": "https://www.pokebip.com/pokedex-images/300/37.png?v=ev-blueberry",
       "types": ["Feu"],
       "height": "0.6 m",
       "weight": "9.9 kg",
+      "description": "Goupix est un Pokémon de type Feu. Il possède six queues qui deviennent plus nombreuses et plus flamboyantes à mesure qu'il grandit.",
       "evolution": "Feunard"
     },
     {
       "name": "Feunard",
       "number": "#038",
-      "imageUrl": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/038.png",
+      "imageUrl": "https://www.pokebip.com/pokedex-images/300/38.png?v=ev-blueberry",
       "types": ["Feu"],
       "height": "1.1 m",
       "weight": "19.9 kg",
-      "evolution": "N/A"
+      "description": "Feunard est l'évolution de Goupix. Avec ses neuf queues mystiques, il est dit qu'il peut vivre mille ans.",
+      "evolution": ""
     },
     {
       "name": "Rondoudou",
       "number": "#039",
-      "imageUrl": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/039.png",
+      "imageUrl": "https://www.pokebip.com/pokedex-images/300/39.png?v=ev-blueberry",
       "types": ["Normal", "Fée"],
       "height": "0.5 m",
       "weight": "5.5 kg",
+      "description": "Rondoudou est un Pokémon de type Normal et Fée. Il utilise son chant apaisant pour endormir ses adversaires.",
       "evolution": "Grodoudou"
     },
     {
       "name": "Grodoudou",
       "number": "#040",
-      "imageUrl": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/040.png",
+      "imageUrl": "https://www.pokebip.com/pokedex-images/300/40.png?v=ev-blueberry",
       "types": ["Normal", "Fée"],
       "height": "1.0 m",
       "weight": "12.0 kg",
-      "evolution": "N/A"
+      "description": "Grodoudou est l'évolution de Rondoudou. Avec son corps moelleux et ses grands yeux, il charme ses ennemis avant de les attaquer.",
+      "evolution": ""
     },
     {
       "name": "Nosferapti",
       "number": "#041",
-      "imageUrl": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/041.png",
+      "imageUrl": "https://www.pokebip.com/pokedex-images/300/41.png?v=ev-blueberry",
       "types": ["Poison", "Vol"],
       "height": "0.8 m",
       "weight": "7.5 kg",
+      "description": "Nosferapti est un Pokémon de type Poison et Vol. Il vole en silence et utilise son sonar pour naviguer dans l'obscurité.",
       "evolution": "Nosferalto"
     },
     {
       "name": "Nosferalto",
       "number": "#042",
-      "imageUrl": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/042.png",
+      "imageUrl": "https://www.pokebip.com/pokedex-images/300/42.png?v=ev-blueberry",
       "types": ["Poison", "Vol"],
       "height": "1.6 m",
       "weight": "55.0 kg",
-      "evolution": "N/A"
+      "description": "Nosferalto est l'évolution de Nosferapti. Plus grand et plus fort, il chasse ses proies en groupe.",
+      "evolution": ""
     },
     {
       "name": "Mystherbe",
       "number": "#043",
-      "imageUrl": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/043.png",
+      "imageUrl": "https://www.pokebip.com/pokedex-images/300/43.png?v=ev-blueberry",
       "types": ["Plante", "Poison"],
       "height": "0.5 m",
       "weight": "5.4 kg",
+      "description": "Mystherbe est un Pokémon de type Plante et Poison. Il dégage un parfum apaisant qui endort ses ennemis.",
       "evolution": "Ortide"
     },
     {
       "name": "Ortide",
       "number": "#044",
-      "imageUrl": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/044.png",
+      "imageUrl": "https://www.pokebip.com/pokedex-images/300/44.png?v=ev-blueberry",
       "types": ["Plante", "Poison"],
       "height": "0.8 m",
       "weight": "8.6 kg",
+      "description": "Ortide est l'évolution de Mystherbe. Il sécrète un liquide nauséabond de ses pétales.",
       "evolution": "Rafflesia"
     },
     {
       "name": "Rafflesia",
       "number": "#045",
-      "imageUrl": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/045.png",
+      "imageUrl": "https://www.pokebip.com/pokedex-images/300/45.png?v=ev-blueberry",
       "types": ["Plante", "Poison"],
       "height": "1.2 m",
       "weight": "18.6 kg",
-      "evolution": "N/A"
+      "description": "Rafflesia est l'évolution finale de Mystherbe. Ses pétales dégagent un parfum puissant qui peut endormir ou empoisonner ses ennemis.",
+      "evolution": ""
     },
     {
       "name": "Paras",
       "number": "#046",
-      "imageUrl": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/046.png",
+      "imageUrl": "https://www.pokebip.com/pokedex-images/300/46.png?v=ev-blueberry",
       "types": ["Insecte", "Plante"],
       "height": "0.3 m",
       "weight": "5.4 kg",
+      "description": "Paras est un Pokémon de type Insecte et Plante. Il vit en symbiose avec les champignons sur son dos.",
       "evolution": "Parasect"
     },
     {
       "name": "Parasect",
       "number": "#047",
-      "imageUrl": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/047.png",
+      "imageUrl": "https://www.pokebip.com/pokedex-images/300/47.png?v=ev-blueberry",
       "types": ["Insecte", "Plante"],
       "height": "1.0 m",
       "weight": "29.5 kg",
-      "evolution": "N/A"
+      "description": "Parasect est l'évolution de Paras. Les champignons sur son dos ont pris le contrôle de son corps.",
+      "evolution": ""
     },
     {
       "name": "Mimitoss",
       "number": "#048",
-      "imageUrl": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/048.png",
+      "imageUrl": "https://www.pokebip.com/pokedex-images/300/48.png?v=ev-blueberry",
       "types": ["Insecte", "Poison"],
       "height": "1.0 m",
       "weight": "30.0 kg",
+      "description": "Mimitoss est un Pokémon de type Insecte et Poison. Il utilise ses yeux composés pour voir dans toutes les directions.",
       "evolution": "Aéromite"
     },
     {
       "name": "Aéromite",
       "number": "#049",
-      "imageUrl": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/049.png",
+      "imageUrl": "https://www.pokebip.com/pokedex-images/300/49.png?v=ev-blueberry",
       "types": ["Insecte", "Poison"],
       "height": "1.5 m",
       "weight": "12.5 kg",
-      "evolution": "N/A"
+      "description": "Aéromite est l'évolution de Mimitoss. Il est actif la nuit et utilise ses ailes pour disperser des spores toxiques.",
+      "evolution": ""
     },
     {
       "name": "Taupiqueur",
       "number": "#050",
-      "imageUrl": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/050.png",
+      "imageUrl": "https://www.pokebip.com/pokedex-images/300/50.png?v=ev-blueberry",
       "types": ["Sol"],
       "height": "0.2 m",
       "weight": "0.8 kg",
+      "description": "Taupiqueur est un Pokémon de type Sol. Il creuse des tunnels souterrains et apparaît rarement à la surface.",
       "evolution": "Triopikeur"
     },
     {
       "name": "Triopikeur",
       "number": "#051",
-      "imageUrl": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/051.png",
+      "imageUrl": "https://www.pokebip.com/pokedex-images/300/51.png?v=ev-blueberry",
       "types": ["Sol"],
       "height": "0.7 m",
       "weight": "33.3 kg",
-      "evolution": "N/A"
+      "description": "Triopikeur est l'évolution de Taupiqueur. Composé de trois Taupiqueurs, il est encore plus rapide pour creuser.",
+      "evolution": ""
     },
     {
       "name": "Miaouss",
       "number": "#052",
-      "imageUrl": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/052.png",
+      "imageUrl": "https://www.pokebip.com/pokedex-images/300/52.png?v=ev-blueberry",
       "types": ["Normal"],
       "height": "0.4 m",
       "weight": "4.2 kg",
+      "description": "Miaouss est un Pokémon de type Normal. Il aime les objets brillants et utilise ses griffes acérées pour les récupérer.",
       "evolution": "Persian"
     },
     {
       "name": "Persian",
       "number": "#053",
-      "imageUrl": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/053.png",
+      "imageUrl": "https://www.pokebip.com/pokedex-images/300/53.png?v=ev-blueberry",
       "types": ["Normal"],
       "height": "1.0 m",
       "weight": "32.0 kg",
-      "evolution": "N/A"
+      "description": "Persian est l'évolution de Miaouss. Élégant et rapide, il utilise ses griffes pour chasser ses proies.",
+      "evolution": ""
     },
     {
       "name": "Psykokwak",
       "number": "#054",
-      "imageUrl": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/054.png",
+      "imageUrl": "https://www.pokebip.com/pokedex-images/300/54.png?v=ev-blueberry",
       "types": ["Eau"],
       "height": "0.8 m",
       "weight": "19.6 kg",
+      "description": "Psykokwak est un Pokémon de type Eau. Il souffre de maux de tête constants, ce qui libère parfois ses pouvoirs psychiques.",
       "evolution": "Akwakwak"
     },
     {
       "name": "Akwakwak",
       "number": "#055",
-      "imageUrl": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/055.png",
+      "imageUrl": "https://www.pokebip.com/pokedex-images/300/55.png?v=ev-blueberry",
       "types": ["Eau"],
       "height": "1.7 m",
       "weight": "76.6 kg",
-      "evolution": "N/A"
+      "description": "Akwakwak est l'évolution de Psykokwak. Il est beaucoup plus à l'aise avec ses pouvoirs psychiques et nage à grande vitesse.",
+      "evolution": ""
     },
     {
       "name": "Férosinge",
       "number": "#056",
-      "imageUrl": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/056.png",
+      "imageUrl": "https://www.pokebip.com/pokedex-images/300/56.png?v=ev-blueberry",
       "types": ["Combat"],
       "height": "0.5 m",
       "weight": "28.0 kg",
+      "description": "Férosinge est un Pokémon de type Combat. Très impulsif, il attaque quiconque le dérange.",
       "evolution": "Colossinge"
     },
     {
       "name": "Colossinge",
       "number": "#057",
-      "imageUrl": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/057.png",
+      "imageUrl": "https://www.pokebip.com/pokedex-images/300/57.png?v=ev-blueberry",
       "types": ["Combat"],
       "height": "1.0 m",
       "weight": "32.0 kg",
-      "evolution": "N/A"
+      "description": "Colossinge est l'évolution de Férosinge. Encore plus agressif, il ne tolère aucune provocation.",
+      "evolution": ""
     },
     {
       "name": "Caninos",
       "number": "#058",
-      "imageUrl": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/058.png",
+      "imageUrl": "https://www.pokebip.com/pokedex-images/300/58.png?v=ev-blueberry",
       "types": ["Feu"],
       "height": "0.7 m",
       "weight": "19.0 kg",
+      "description": "Caninos est un Pokémon de type Feu. Loyal et courageux, il protège son dresseur à tout prix.",
       "evolution": "Arcanin"
     },
     {
       "name": "Arcanin",
       "number": "#059",
-      "imageUrl": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/059.png",
+      "imageUrl": "https://www.pokebip.com/pokedex-images/300/59.png?v=ev-blueberry",
       "types": ["Feu"],
       "height": "1.9 m",
       "weight": "155.0 kg",
-      "evolution": "N/A"
+      "description": "Arcanin est l'évolution de Caninos. Majestueux et puissant, il peut courir à des vitesses incroyables.",
+      "evolution": ""
     },
     {
       "name": "Ptitard",
       "number": "#060",
-      "imageUrl": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/060.png",
+      "imageUrl": "https://www.pokebip.com/pokedex-images/300/60.png?v=ev-blueberry",
       "types": ["Eau"],
       "height": "0.6 m",
       "weight": "12.4 kg",
+      "description": "Ptitard est un Pokémon de type Eau. Il a une spirale sur son ventre qui aide à sa digestion.",
       "evolution": "Têtarte"
     },
     {
       "name": "Têtarte",
       "number": "#061",
-      "imageUrl": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/061.png",
+      "imageUrl": "https://www.pokebip.com/pokedex-images/300/61.png?v=ev-blueberry",
       "types": ["Eau"],
       "height": "1.0 m",
       "weight": "20.0 kg",
+      "description": "Têtarte est l'évolution de Ptitard. Il est à l'aise dans l'eau et sur terre, et se prépare à évoluer en Tartard.",
       "evolution": "Tartard"
     },
     {
       "name": "Tartard",
       "number": "#062",
-      "imageUrl": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/062.png",
+      "imageUrl": "https://www.pokebip.com/pokedex-images/300/62.png?v=ev-blueberry",
       "types": ["Eau", "Combat"],
       "height": "1.3 m",
       "weight": "54.0 kg",
-      "evolution": "N/A"
+      "description": "Tartard est l'évolution finale de Ptitard. Il est extrêmement puissant et utilise ses poings pour combattre.",
+      "evolution": ""
     },
     {
       "name": "Abra",
       "number": "#063",
-      "imageUrl": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/063.png",
+      "imageUrl": "https://www.pokebip.com/pokedex-images/300/63.png?v=ev-blueberry",
       "types": ["Psy"],
       "height": "0.9 m",
       "weight": "19.5 kg",
+      "description": "Abra est un Pokémon de type Psy. Il passe la plupart de son temps à dormir pour maintenir ses pouvoirs psychiques.",
       "evolution": "Kadabra"
     },
     {
       "name": "Kadabra",
       "number": "#064",
-      "imageUrl": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/064.png",
+      "imageUrl": "https://www.pokebip.com/pokedex-images/300/64.png?v=ev-blueberry",
       "types": ["Psy"],
       "height": "1.3 m",
       "weight": "56.5 kg",
+      "description": "Kadabra est l'évolution d'Abra. Ses pouvoirs psychiques sont plus développés, et il utilise une cuillère pour concentrer son énergie.",
       "evolution": "Alakazam"
     },
     {
       "name": "Alakazam",
       "number": "#065",
-      "imageUrl": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/065.png",
+      "imageUrl": "https://www.pokebip.com/pokedex-images/300/65.png?v=ev-blueberry",
       "types": ["Psy"],
       "height": "1.5 m",
       "weight": "48.0 kg",
-      "evolution": "N/A"
+      "description": "Alakazam est l'évolution finale d'Abra. Ses pouvoirs psychiques sont inégalés, et son QI est extrêmement élevé.",
+      "evolution": ""
     },
     {
       "name": "Machoc",
       "number": "#066",
-      "imageUrl": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/066.png",
+      "imageUrl": "https://www.pokebip.com/pokedex-images/300/66.png?v=ev-blueberry",
       "types": ["Combat"],
       "height": "0.8 m",
       "weight": "19.5 kg",
+      "description": "Machoc est un Pokémon de type Combat. Il s'entraîne constamment pour devenir plus fort.",
       "evolution": "Machopeur"
     },
     {
       "name": "Machopeur",
       "number": "#067",
-      "imageUrl": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/067.png",
+      "imageUrl": "https://www.pokebip.com/pokedex-images/300/67.png?v=ev-blueberry",
       "types": ["Combat"],
       "height": "1.5 m",
       "weight": "70.5 kg",
+      "description": "Machopeur est l'évolution de Machoc. Plus musclé, il peut soulever des objets extrêmement lourds.",
       "evolution": "Mackogneur"
     },
     {
       "name": "Mackogneur",
       "number": "#068",
-      "imageUrl": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/068.png",
+      "imageUrl": "https://www.pokebip.com/pokedex-images/300/68.png?v=ev-blueberry",
       "types": ["Combat"],
       "height": "1.6 m",
       "weight": "130.0 kg",
-      "evolution": "N/A"
+      "description": "Mackogneur est l'évolution finale de Machoc. Avec ses quatre bras, il peut exécuter des attaques rapides et puissantes.",
+      "evolution": ""
     },
     {
       "name": "Chétiflor",
       "number": "#069",
-      "imageUrl": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/069.png",
+      "imageUrl": "https://www.pokebip.com/pokedex-images/300/69.png?v=ev-blueberry",
       "types": ["Plante", "Poison"],
       "height": "0.7 m",
       "weight": "4.0 kg",
+      "description": "Chétiflor est un Pokémon de type Plante et Poison. Il utilise sa liane pour capturer ses proies.",
       "evolution": "Boustiflor"
     },
     {
       "name": "Boustiflor",
       "number": "#070",
-      "imageUrl": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/070.png",
+      "imageUrl": "https://www.pokebip.com/pokedex-images/300/70.png?v=ev-blueberry",
       "types": ["Plante", "Poison"],
       "height": "1.0 m",
       "weight": "6.4 kg",
+      "description": "Boustiflor est l'évolution de Chétiflor. Plus grand, il peut maintenant produire des toxines plus puissantes.",
       "evolution": "Empiflor"
     },
     {
       "name": "Empiflor",
       "number": "#071",
-      "imageUrl": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/071.png",
+      "imageUrl": "https://www.pokebip.com/pokedex-images/300/71.png?v=ev-blueberry",
       "types": ["Plante", "Poison"],
       "height": "1.7 m",
       "weight": "15.5 kg",
-      "evolution": "N/A"
+      "description": "Empiflor est l'évolution finale de Chétiflor. Il est capable d'engloutir de grandes proies grâce à sa bouche énorme.",
+      "evolution": ""
     },
     {
       "name": "Tentacool",
       "number": "#072",
-      "imageUrl": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/072.png",
+      "imageUrl": "https://www.pokebip.com/pokedex-images/300/72.png?v=ev-blueberry",
       "types": ["Eau", "Poison"],
       "height": "0.9 m",
       "weight": "45.5 kg",
+      "description": "Tentacool est un Pokémon de type Eau et Poison. Il utilise ses tentacules pour paralyser ses ennemis.",
       "evolution": "Tentacruel"
     },
     {
       "name": "Tentacruel",
       "number": "#073",
-      "imageUrl": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/073.png",
+      "imageUrl": "https://www.pokebip.com/pokedex-images/300/73.png?v=ev-blueberry",
       "types": ["Eau", "Poison"],
       "height": "1.6 m",
       "weight": "55.0 kg",
-      "evolution": "N/A"
+      "description": "Tentacruel est l'évolution de Tentacool. Avec ses nombreux tentacules, il peut capturer plusieurs proies à la fois.",
+      "evolution": ""
     },
     {
       "name": "Racaillou",
       "number": "#074",
-      "imageUrl": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/074.png",
+      "imageUrl": "https://www.pokebip.com/pokedex-images/300/74.png?v=ev-blueberry",
       "types": ["Roche", "Sol"],
       "height": "0.4 m",
       "weight": "20.0 kg",
+      "description": "Racaillou est un Pokémon de type Roche et Sol. Il roule souvent sur lui-même pour se déplacer plus rapidement.",
       "evolution": "Gravalanch"
     },
     {
       "name": "Gravalanch",
       "number": "#075",
-      "imageUrl": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/075.png",
+      "imageUrl": "https://www.pokebip.com/pokedex-images/300/75.png?v=ev-blueberry",
       "types": ["Roche", "Sol"],
       "height": "1.0 m",
       "weight": "105.0 kg",
+      "description": "Gravalanch est l'évolution de Racaillou. Il utilise son poids pour écraser ses ennemis.",
       "evolution": "Grolem"
     },
     {
       "name": "Grolem",
       "number": "#076",
-      "imageUrl": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/076.png",
+      "imageUrl": "https://www.pokebip.com/pokedex-images/300/76.png?v=ev-blueberry",
       "types": ["Roche", "Sol"],
       "height": "1.4 m",
       "weight": "300.0 kg",
-      "evolution": "N/A"
+      "description": "Grolem est l'évolution finale de Racaillou. Avec son corps robuste, il est pratiquement invulnérable aux attaques physiques.",
+      "evolution": ""
     },
     {
       "name": "Ponyta",
       "number": "#077",
-      "imageUrl": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/077.png",
+      "imageUrl": "https://www.pokebip.com/pokedex-images/300/77.png?v=ev-blueberry",
       "types": ["Feu"],
       "height": "1.0 m",
       "weight": "30.0 kg",
+      "description": "Ponyta est un Pokémon de type Feu. Ses flammes sur son dos s'intensifient lorsqu'il court à grande vitesse.",
       "evolution": "Galopa"
     },
     {
       "name": "Galopa",
       "number": "#078",
-      "imageUrl": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/078.png",
+      "imageUrl": "https://www.pokebip.com/pokedex-images/300/78.png?v=ev-blueberry",
       "types": ["Feu"],
       "height": "1.7 m",
       "weight": "95.0 kg",
-      "evolution": "N/A"
+      "description": "Galopa est l'évolution de Ponyta. Il peut atteindre des vitesses incroyables, laissant une traînée de feu derrière lui.",
+      "evolution": ""
     },
     {
       "name": "Ramoloss",
       "number": "#079",
-      "imageUrl": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/079.png",
+      "imageUrl": "https://www.pokebip.com/pokedex-images/300/79.png?v=ev-blueberry",
       "types": ["Eau", "Psy"],
       "height": "1.2 m",
       "weight": "36.0 kg",
+      "description": "Ramoloss est un Pokémon de type Eau et Psy. Il est connu pour sa lenteur et son comportement décontracté.",
       "evolution": "Flagadoss"
     },
     {
       "name": "Flagadoss",
       "number": "#080",
-      "imageUrl": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/080.png",
+      "imageUrl": "https://www.pokebip.com/pokedex-images/300/80.png?v=ev-blueberry",
       "types": ["Eau", "Psy"],
       "height": "1.6 m",
       "weight": "78.5 kg",
-      "evolution": "N/A"
+      "description": "Flagadoss est l'évolution de Ramoloss. Un Kokiyas mord sa queue, ce qui active ses pouvoirs psychiques.",
+      "evolution": ""
     },
     {
       "name": "Magnéti",
       "number": "#081",
-      "imageUrl": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/081.png",
+      "imageUrl": "https://www.pokebip.com/pokedex-images/300/81.png?v=ev-blueberry",
       "types": ["Électrik", "Acier"],
       "height": "0.3 m",
       "weight": "6.0 kg",
+      "description": "Magnéti est un Pokémon de type Électrik et Acier. Il flotte en utilisant des champs magnétiques.",
       "evolution": "Magnéton"
     },
     {
       "name": "Magnéton",
       "number": "#082",
-      "imageUrl": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/082.png",
+      "imageUrl": "https://www.pokebip.com/pokedex-images/300/82.png?v=ev-blueberry",
       "types": ["Électrik", "Acier"],
       "height": "1.0 m",
       "weight": "60.0 kg",
-      "evolution": "N/A"
+      "description": "Magnéton est l'évolution de Magnéti. Il est composé de trois Magnéti unis, ce qui triple sa puissance magnétique.",
+      "evolution": ""
     },
     {
       "name": "Canarticho",
       "number": "#083",
-      "imageUrl": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/083.png",
+      "imageUrl": "https://www.pokebip.com/pokedex-images/300/83.png?v=ev-blueberry",
       "types": ["Normal", "Vol"],
       "height": "0.8 m",
       "weight": "15.0 kg",
-      "evolution": "N/A"
+      "description": "Canarticho est un Pokémon de type Normal et Vol. Il utilise un poireau comme arme pour se défendre.",
+      "evolution": ""
     },
     {
       "name": "Doduo",
       "number": "#084",
-      "imageUrl": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/084.png",
+      "imageUrl": "https://www.pokebip.com/pokedex-images/300/84.png?v=ev-blueberry",
       "types": ["Normal", "Vol"],
       "height": "1.4 m",
       "weight": "39.2 kg",
+      "description": "Doduo est un Pokémon de type Normal et Vol. Il a deux têtes qui pensent indépendamment l'une de l'autre.",
       "evolution": "Dodrio"
     },
     {
       "name": "Dodrio",
       "number": "#085",
-      "imageUrl": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/085.png",
+      "imageUrl": "https://www.pokebip.com/pokedex-images/300/85.png?v=ev-blueberry",
       "types": ["Normal", "Vol"],
       "height": "1.8 m",
       "weight": "85.2 kg",
-      "evolution": "N/A"
+      "description": "Dodrio est l'évolution de Doduo. Avec trois têtes, il peut surveiller dans toutes les directions en même temps.",
+      "evolution": ""
     },
     {
       "name": "Otaria",
       "number": "#086",
-      "imageUrl": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/086.png",
+      "imageUrl": "https://www.pokebip.com/pokedex-images/300/86.png?v=ev-blueberry",
       "types": ["Eau"],
       "height": "1.1 m",
       "weight": "90.0 kg",
+      "description": "Otaria est un Pokémon de type Eau. Il aime jouer dans les eaux glacées et utilise sa nageoire pour se propulser rapidement.",
       "evolution": "Lamantine"
     },
     {
       "name": "Lamantine",
       "number": "#087",
-      "imageUrl": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/087.png",
+      "imageUrl": "https://www.pokebip.com/pokedex-images/300/87.png?v=ev-blueberry",
       "types": ["Eau", "Glace"],
       "height": "1.7 m",
       "weight": "120.0 kg",
-      "evolution": "N/A"
+      "description": "Lamantine est l'évolution d'Otaria. Il nage gracieusement dans les eaux froides et utilise ses pouvoirs de glace pour se défendre.",
+      "evolution": ""
     },
     {
       "name": "Tadmorv",
       "number": "#088",
-      "imageUrl": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/088.png",
+      "imageUrl": "https://www.pokebip.com/pokedex-images/300/88.png?v=ev-blueberry",
       "types": ["Poison"],
       "height": "0.9 m",
       "weight": "30.0 kg",
+      "description": "Tadmorv est un Pokémon de type Poison. Il est composé de boue toxique et peut empoisonner ses ennemis.",
       "evolution": "Grotadmorv"
     },
     {
       "name": "Grotadmorv",
       "number": "#089",
-      "imageUrl": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/089.png",
+      "imageUrl": "https://www.pokebip.com/pokedex-images/300/89.png?v=ev-blueberry",
       "types": ["Poison"],
       "height": "1.2 m",
       "weight": "30.0 kg",
-      "evolution": "N/A"
+      "description": "Grotadmorv est l'évolution de Tadmorv. Il est encore plus toxique et peut corrompre tout ce qu'il touche.",
+      "evolution": ""
     },
     {
       "name": "Kokiyas",
       "number": "#090",
-      "imageUrl": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/090.png",
+      "imageUrl": "https://www.pokebip.com/pokedex-images/300/90.png?v=ev-blueberry",
       "types": ["Eau"],
       "height": "0.3 m",
       "weight": "4.0 kg",
+      "description": "Kokiyas est un Pokémon de type Eau. Il se protège en fermant sa coquille dure.",
       "evolution": "Crustabri"
     },
     {
       "name": "Crustabri",
       "number": "#091",
-      "imageUrl": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/091.png",
+      "imageUrl": "https://www.pokebip.com/pokedex-images/300/91.png?v=ev-blueberry",
       "types": ["Eau", "Glace"],
       "height": "1.5 m",
       "weight": "132.5 kg",
-      "evolution": "N/A"
+      "description": "Crustabri est l'évolution de Kokiyas. Sa coquille est extrêmement dure et il peut projeter des pointes glacées.",
+      "evolution": ""
     },
     {
       "name": "Fantominus",
       "number": "#092",
-      "imageUrl": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/092.png",
+      "imageUrl": "https://www.pokebip.com/pokedex-images/300/92.png?v=ev-blueberry",
       "types": ["Spectre", "Poison"],
       "height": "1.3 m",
       "weight": "0.1 kg",
+      "description": "Fantominus est un Pokémon de type Spectre et Poison. Il est constitué principalement de gaz.",
       "evolution": "Spectrum"
     },
     {
       "name": "Spectrum",
       "number": "#093",
-      "imageUrl": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/093.png",
+      "imageUrl": "https://www.pokebip.com/pokedex-images/300/93.png?v=ev-blueberry",
       "types": ["Spectre", "Poison"],
       "height": "1.6 m",
       "weight": "0.1 kg",
+      "description": "Spectrum est l'évolution de Fantominus. Il utilise ses mains spectrales pour effrayer et capturer ses ennemis.",
       "evolution": "Ectoplasma"
     },
     {
       "name": "Ectoplasma",
       "number": "#094",
-      "imageUrl": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/094.png",
+      "imageUrl": "https://www.pokebip.com/pokedex-images/300/94.png?v=ev-blueberry",
       "types": ["Spectre", "Poison"],
       "height": "1.5 m",
       "weight": "40.5 kg",
-      "evolution": "N/A"
+      "description": "Ectoplasma est l'évolution finale de Fantominus. Il aime jouer des tours effrayants et peut se fondre dans les ombres.",
+      "evolution": ""
     },
     {
       "name": "Onix",
       "number": "#095",
-      "imageUrl": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/095.png",
+      "imageUrl": "https://www.pokebip.com/pokedex-images/300/95.png?v=ev-blueberry",
       "types": ["Roche", "Sol"],
       "height": "8.8 m",
       "weight": "210.0 kg",
-      "evolution": "Steelix"
+      "description": "Onix est un Pokémon de type Roche et Sol. Son corps est composé de segments rocheux, et il peut creuser à grande vitesse.",
+      "evolution": ""
     },
     {
       "name": "Soporifik",
       "number": "#096",
-      "imageUrl": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/096.png",
+      "imageUrl": "https://www.pokebip.com/pokedex-images/300/96.png?v=ev-blueberry",
       "types": ["Psy"],
       "height": "1.0 m",
       "weight": "32.4 kg",
+      "description": "Soporifik est un Pokémon de type Psy. Il utilise son pendule pour endormir ses ennemis.",
       "evolution": "Hypnomade"
     },
     {
       "name": "Hypnomade",
       "number": "#097",
-      "imageUrl": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/097.png",
+      "imageUrl": "https://www.pokebip.com/pokedex-images/300/97.png?v=ev-blueberry",
       "types": ["Psy"],
       "height": "1.6 m",
       "weight": "75.6 kg",
-      "evolution": "N/A"
+      "description": "Hypnomade est l'évolution de Soporifik. Il peut hypnotiser ses ennemis pour les forcer à obéir à ses ordres.",
+      "evolution": ""
     },
     {
       "name": "Krabby",
       "number": "#098",
-      "imageUrl": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/098.png",
+      "imageUrl": "https://www.pokebip.com/pokedex-images/300/98.png?v=ev-blueberry",
       "types": ["Eau"],
       "height": "0.4 m",
       "weight": "6.5 kg",
+      "description": "Krabby est un Pokémon de type Eau. Il utilise ses pinces pour se défendre et briser des objets.",
       "evolution": "Krabboss"
     },
     {
       "name": "Krabboss",
       "number": "#099",
-      "imageUrl": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/099.png",
+      "imageUrl": "https://www.pokebip.com/pokedex-images/300/99.png?v=ev-blueberry",
       "types": ["Eau"],
       "height": "1.3 m",
       "weight": "60.0 kg",
-      "evolution": "N/A"
+      "description": "Krabboss est l'évolution de Krabby. Ses pinces sont extrêmement puissantes et peuvent briser presque n'importe quoi.",
+      "evolution": ""
     },
     {
       "name": "Voltorbe",
       "number": "#100",
-      "imageUrl": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/100.png",
+      "imageUrl": "https://www.pokebip.com/pokedex-images/300/100.png?v=ev-blueberry",
       "types": ["Électrik"],
       "height": "0.5 m",
       "weight": "10.4 kg",
+      "description": "Voltorbe est un Pokémon de type Électrik. Il ressemble à une Poké Ball et peut exploser lorsqu'il est menacé.",
       "evolution": "Électrode"
     },
     {
       "name": "Électrode",
       "number": "#101",
-      "imageUrl": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/101.png",
+      "imageUrl": "https://www.pokebip.com/pokedex-images/300/101.png?v=ev-blueberry",
       "types": ["Électrik"],
       "height": "1.2 m",
       "weight": "66.6 kg",
-      "evolution": "N/A"
+      "description": "Électrode est l'évolution de Voltorbe. Il est encore plus explosif et peut générer de puissantes décharges électriques.",
+      "evolution": ""
     },
     {
       "name": "Noeunoeuf",
       "number": "#102",
-      "imageUrl": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/102.png",
+      "imageUrl": "https://www.pokebip.com/pokedex-images/300/102.png?v=ev-blueberry",
       "types": ["Plante", "Psy"],
       "height": "0.4 m",
       "weight": "2.5 kg",
+      "description": "Noeunoeuf est un Pokémon de type Plante et Psy. Il est constitué de six œufs, chacun ayant une expression différente.",
       "evolution": "Noadkoko"
     },
     {
       "name": "Noadkoko",
       "number": "#103",
-      "imageUrl": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/103.png",
+      "imageUrl": "https://www.pokebip.com/pokedex-images/300/103.png?v=ev-blueberry",
       "types": ["Plante", "Psy"],
       "height": "2.0 m",
       "weight": "120.0 kg",
-      "evolution": "N/A"
+      "description": "Noadkoko est l'évolution de Noeunoeuf. Avec son long cou et ses feuilles, il peut utiliser des attaques puissantes de type Plante et Psy.",
+      "evolution": ""
     },
     {
       "name": "Osselait",
       "number": "#104",
-      "imageUrl": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/104.png",
+      "imageUrl": "https://www.pokebip.com/pokedex-images/300/104.png?v=ev-blueberry",
       "types": ["Sol"],
       "height": "0.4 m",
       "weight": "6.5 kg",
+      "description": "Osselait est un Pokémon de type Sol. Il porte le crâne de sa mère en guise de casque.",
       "evolution": "Ossatueur"
     },
     {
       "name": "Ossatueur",
       "number": "#105",
-      "imageUrl": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/105.png",
+      "imageUrl": "https://www.pokebip.com/pokedex-images/300/105.png?v=ev-blueberry",
       "types": ["Sol"],
       "height": "1.0 m",
       "weight": "45.0 kg",
-      "evolution": "N/A"
+      "description": "Ossatueur est l'évolution d'Osselait. Il utilise son os pour attaquer ses ennemis et se défendre.",
+      "evolution": ""
     },
     {
       "name": "Kicklee",
       "number": "#106",
-      "imageUrl": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/106.png",
+      "imageUrl": "https://www.pokebip.com/pokedex-images/300/106.png?v=ev-blueberry",
       "types": ["Combat"],
       "height": "1.5 m",
       "weight": "49.8 kg",
-      "evolution": "N/A"
+      "description": "Kicklee est un Pokémon de type Combat. Il est expert en coups de pied, qu'il exécute avec une grande précision.",
+      "evolution": ""
     },
     {
       "name": "Tygnon",
       "number": "#107",
-      "imageUrl": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/107.png",
+      "imageUrl": "https://www.pokebip.com/pokedex-images/300/107.png?v=ev-blueberry",
       "types": ["Combat"],
       "height": "1.4 m",
       "weight": "50.2 kg",
-      "evolution": "N/A"
+      "description": "Tygnon est un Pokémon de type Combat. Il se spécialise dans les coups de poing rapides et puissants.",
+      "evolution": ""
     },
     {
       "name": "Excelangue",
       "number": "#108",
-      "imageUrl": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/108.png",
+      "imageUrl": "https://www.pokebip.com/pokedex-images/300/108.png?v=ev-blueberry",
       "types": ["Normal"],
       "height": "1.2 m",
       "weight": "65.5 kg",
-      "evolution": "Coudlangue"
+      "description": "Excelangue est un Pokémon de type Normal. Sa longue langue lui permet de goûter tout ce qui l'entoure.",
+      "evolution": ""
     },
     {
       "name": "Smogo",
       "number": "#109",
-      "imageUrl": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/109.png",
+      "imageUrl": "https://www.pokebip.com/pokedex-images/300/109.png?v=ev-blueberry",
       "types": ["Poison"],
       "height": "0.6 m",
       "weight": "1.0 kg",
+      "description": "Smogo est un Pokémon de type Poison. Il flotte en utilisant des gaz toxiques.",
       "evolution": "Smogogo"
     },
     {
       "name": "Smogogo",
       "number": "#110",
-      "imageUrl": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/110.png",
+      "imageUrl": "https://www.pokebip.com/pokedex-images/300/110.png?v=ev-blueberry",
       "types": ["Poison"],
       "height": "1.2 m",
       "weight": "9.5 kg",
-      "evolution": "N/A"
+      "description": "Smogogo est l'évolution de Smogo. Avec deux têtes, il peut libérer des gaz toxiques encore plus puissants.",
+      "evolution": ""
     },
     {
       "name": "Rhinocorne",
       "number": "#111",
-      "imageUrl": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/111.png",
+      "imageUrl": "https://www.pokebip.com/pokedex-images/300/111.png?v=ev-blueberry",
       "types": ["Sol", "Roche"],
       "height": "1.0 m",
       "weight": "115.0 kg",
+      "description": "Rhinocorne est un Pokémon de type Sol et Roche. Il charge ses ennemis avec sa corne puissante.",
       "evolution": "Rhinoféros"
     },
     {
       "name": "Rhinoféros",
       "number": "#112",
-      "imageUrl": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/112.png",
+      "imageUrl": "https://www.pokebip.com/pokedex-images/300/112.png?v=ev-blueberry",
       "types": ["Sol", "Roche"],
       "height": "1.9 m",
       "weight": "120.0 kg",
-      "evolution": "Rhinastoc"
+      "description": "Rhinoféros est l'évolution de Rhinocorne. Il est extrêmement robuste et peut démolir presque n'importe quoi avec sa force brute.",
+      "evolution": ""
     },
     {
       "name": "Leveinard",
       "number": "#113",
-      "imageUrl": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/113.png",
+      "imageUrl": "https://www.pokebip.com/pokedex-images/300/113.png?v=ev-blueberry",
       "types": ["Normal"],
       "height": "1.1 m",
       "weight": "34.6 kg",
-      "evolution": "Leuphorie"
+      "description": "Leveinard est un Pokémon de type Normal. Il porte un œuf dans sa poche ventrale, qu'il partage volontiers avec les blessés.",
+      "evolution": ""
     },
     {
       "name": "Saquedeneu",
       "number": "#114",
-      "imageUrl": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/114.png",
+      "imageUrl": "https://www.pokebip.com/pokedex-images/300/114.png?v=ev-blueberry",
       "types": ["Plante"],
       "height": "1.0 m",
       "weight": "35.0 kg",
-      "evolution": "Bouldeneu"
+      "description": "Saquedeneu est un Pokémon de type Plante. Il utilise ses lianes pour attaquer et capturer ses ennemis.",
+      "evolution": ""
     },
     {
       "name": "Kangourex",
       "number": "#115",
-      "imageUrl": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/115.png",
+      "imageUrl": "https://www.pokebip.com/pokedex-images/300/115.png?v=ev-blueberry",
       "types": ["Normal"],
       "height": "2.2 m",
       "weight": "80.0 kg",
-      "evolution": "N/A"
+      "description": "Kangourex est un Pokémon de type Normal. Il protège son petit dans sa poche ventrale et se bat avec une grande férocité.",
+      "evolution": ""
     },
     {
       "name": "Hypotrempe",
       "number": "#116",
-      "imageUrl": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/116.png",
+      "imageUrl": "https://www.pokebip.com/pokedex-images/300/116.png?v=ev-blueberry",
       "types": ["Eau"],
       "height": "0.4 m",
       "weight": "8.0 kg",
+      "description": "Hypotrempe est un Pokémon de type Eau. Il nage habilement et utilise des jets d'encre pour se cacher des ennemis.",
       "evolution": "Hypocéan"
     },
     {
       "name": "Hypocéan",
       "number": "#117",
-      "imageUrl": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/117.png",
+      "imageUrl": "https://www.pokebip.com/pokedex-images/300/117.png?v=ev-blueberry",
       "types": ["Eau"],
       "height": "1.2 m",
       "weight": "25.0 kg",
-      "evolution": "N/A"
+      "description": "Hypocéan est l'évolution d'Hypotrempe. Il peut tirer des jets d'eau puissants pour se défendre et attaquer.",
+      "evolution": ""
     },
     {
       "name": "Poissirène",
       "number": "#118",
-      "imageUrl": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/118.png",
+      "imageUrl": "https://www.pokebip.com/pokedex-images/300/118.png?v=ev-blueberry",
       "types": ["Eau"],
       "height": "0.6 m",
       "weight": "15.0 kg",
+      "description": "Poissirène est un Pokémon de type Eau. Ses nageoires élégantes et ses mouvements gracieux le font ressembler à une danseuse.",
       "evolution": "Poissoroy"
     },
     {
       "name": "Poissoroy",
       "number": "#119",
-      "imageUrl": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/119.png",
+      "imageUrl": "https://www.pokebip.com/pokedex-images/300/119.png?v=ev-blueberry",
       "types": ["Eau"],
       "height": "1.3 m",
       "weight": "39.0 kg",
-      "evolution": "N/A"
+      "description": "Poissoroy est l'évolution de Poissirène. Avec ses cornes acérées, il peut se défendre efficacement contre ses ennemis.",
+      "evolution": ""
     },
     {
       "name": "Stari",
       "number": "#120",
-      "imageUrl": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/120.png",
+      "imageUrl": "https://www.pokebip.com/pokedex-images/300/120.png?v=ev-blueberry",
       "types": ["Eau"],
       "height": "0.8 m",
       "weight": "34.5 kg",
+      "description": "Stari est un Pokémon de type Eau. Il peut se régénérer en reconstruisant ses membres perdus.",
       "evolution": "Staross"
     },
     {
       "name": "Staross",
       "number": "#121",
-      "imageUrl": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/121.png",
+      "imageUrl": "https://www.pokebip.com/pokedex-images/300/121.png?v=ev-blueberry",
       "types": ["Eau", "Psy"],
       "height": "1.1 m",
       "weight": "80.0 kg",
-      "evolution": "N/A"
+      "description": "Staross est l'évolution de Stari. Son noyau central émet une lueur mystérieuse et il peut utiliser des attaques de type Psy.",
+      "evolution": ""
     },
     {
       "name": "M. Mime",
       "number": "#122",
-      "imageUrl": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/122.png",
+      "imageUrl": "https://www.pokebip.com/pokedex-images/300/122.png?v=ev-blueberry",
       "types": ["Psy", "Fée"],
       "height": "1.3 m",
       "weight": "54.5 kg",
-      "evolution": "M. Mime de Galar"
+      "description": "M. Mime est un Pokémon de type Psy et Fée. Il utilise ses capacités mimétiques pour créer des barrières invisibles.",
+      "evolution": ""
     },
     {
       "name": "Insécateur",
       "number": "#123",
-      "imageUrl": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/123.png",
+      "imageUrl": "https://www.pokebip.com/pokedex-images/300/123.png?v=ev-blueberry",
       "types": ["Insecte", "Vol"],
       "height": "1.5 m",
       "weight": "56.0 kg",
-      "evolution": "Cizayox"
+      "description": "Insécateur est un Pokémon de type Insecte et Vol. Il utilise ses lames tranchantes pour couper à travers presque n'importe quoi.",
+      "evolution": ""
     },
     {
       "name": "Lippoutou",
       "number": "#124",
-      "imageUrl": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/124.png",
+      "imageUrl": "https://www.pokebip.com/pokedex-images/300/124.png?v=ev-blueberry",
       "types": ["Glace", "Psy"],
       "height": "1.4 m",
       "weight": "40.6 kg",
-      "evolution": "N/A"
+      "description": "Lippoutou est un Pokémon de type Glace et Psy. Il utilise ses capacités psychiques et ses attaques de glace pour se battre.",
+      "evolution": ""
     },
     {
       "name": "Élektek",
       "number": "#125",
-      "imageUrl": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/125.png",
+      "imageUrl": "https://www.pokebip.com/pokedex-images/300/125.png?v=ev-blueberry",
       "types": ["Électrik"],
       "height": "1.1 m",
       "weight": "30.0 kg",
-      "evolution": "Élekable"
+      "description": "Élektek est un Pokémon de type Électrik. Il peut générer des décharges électriques puissantes pour attaquer ses ennemis.",
+      "evolution": ""
     },
     {
       "name": "Magmar",
       "number": "#126",
-      "imageUrl": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/126.png",
+      "imageUrl": "https://www.pokebip.com/pokedex-images/300/126.png?v=ev-blueberry",
       "types": ["Feu"],
       "height": "1.3 m",
       "weight": "44.5 kg",
-      "evolution": "Maganon"
+      "description": "Magmar est un Pokémon de type Feu. Son corps est couvert de flammes, et il peut cracher du feu pour se défendre.",
+      "evolution": ""
     },
     {
       "name": "Scarabrute",
       "number": "#127",
-      "imageUrl": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/127.png",
+      "imageUrl": "https://www.pokebip.com/pokedex-images/300/127.png?v=ev-blueberry",
       "types": ["Insecte"],
       "height": "1.5 m",
       "weight": "55.0 kg",
-      "evolution": "N/A"
+      "description": "Scarabrute est un Pokémon de type Insecte. Il utilise ses pinces puissantes pour attraper et écraser ses ennemis.",
+      "evolution": ""
     },
     {
       "name": "Tauros",
       "number": "#128",
-      "imageUrl": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/128.png",
+      "imageUrl": "https://www.pokebip.com/pokedex-images/300/128.png?v=ev-blueberry",
       "types": ["Normal"],
       "height": "1.4 m",
       "weight": "88.4 kg",
-      "evolution": "N/A"
+      "description": "Tauros est un Pokémon de type Normal. Il charge ses ennemis avec ses cornes puissantes et sa vitesse élevée.",
+      "evolution": ""
     },
     {
       "name": "Magicarpe",
       "number": "#129",
-      "imageUrl": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/129.png",
+      "imageUrl": "https://www.pokebip.com/pokedex-images/300/129.png?v=ev-blueberry",
       "types": ["Eau"],
       "height": "0.9 m",
       "weight": "10.0 kg",
+      "description": "Magicarpe est un Pokémon de type Eau. Bien qu'il soit faible, il peut évoluer en un Pokémon extrêmement puissant.",
       "evolution": "Léviator"
     },
     {
       "name": "Léviator",
       "number": "#130",
-      "imageUrl": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/130.png",
+      "imageUrl": "https://www.pokebip.com/pokedex-images/300/130.png?v=ev-blueberry",
       "types": ["Eau", "Vol"],
       "height": "6.5 m",
       "weight": "235.0 kg",
-      "evolution": "N/A"
+      "description": "Léviator est l'évolution de Magicarpe. Avec sa puissance redoutable et ses attaques destructrices, il est craint de tous.",
+      "evolution": ""
     },
     {
       "name": "Lokhlass",
       "number": "#131",
-      "imageUrl": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/131.png",
+      "imageUrl": "https://www.pokebip.com/pokedex-images/300/131.png?v=ev-blueberry",
       "types": ["Eau", "Glace"],
       "height": "2.5 m",
       "weight": "220.0 kg",
-      "evolution": "N/A"
+      "description": "Lokhlass est un Pokémon de type Eau et Glace. Il est connu pour sa gentillesse et sa capacité à transporter des personnes sur son dos.",
+      "evolution": ""
     },
     {
       "name": "Métamorph",
       "number": "#132",
-      "imageUrl": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/132.png",
+      "imageUrl": "https://www.pokebip.com/pokedex-images/300/132.png?v=ev-blueberry",
       "types": ["Normal"],
       "height": "0.3 m",
       "weight": "4.0 kg",
-      "evolution": "N/A"
+      "description": "Métamorph est un Pokémon de type Normal. Il peut prendre l'apparence de n'importe quel autre Pokémon.",
+      "evolution": ""
     },
     {
       "name": "Évoli",
       "number": "#133",
-      "imageUrl": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/133.png",
+      "imageUrl": "https://www.pokebip.com/pokedex-images/300/133.png?v=ev-blueberry",
       "types": ["Normal"],
       "height": "0.3 m",
       "weight": "6.5 kg",
-      "evolution": "Aquali, Voltali, Pyroli, Mentali, Noctali, Phyllali, Givrali, Nymphali"
+      "description": "Évoli est un Pokémon de type Normal. Il a plusieurs évolutions possibles, chacune avec des caractéristiques uniques.",
+      "evolution": "Aquali, Voltali, Pyroli"
     },
     {
       "name": "Aquali",
       "number": "#134",
-      "imageUrl": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/134.png",
+      "imageUrl": "https://www.pokebip.com/pokedex-images/300/134.png?v=ev-blueberry",
       "types": ["Eau"],
       "height": "1.0 m",
       "weight": "29.0 kg",
-      "evolution": "N/A"
+      "description": "Aquali est l'une des évolutions d'Évoli. Il est de type Eau et peut nager à grande vitesse.",
+      "evolution": ""
     },
     {
       "name": "Voltali",
       "number": "#135",
-      "imageUrl": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/135.png",
+      "imageUrl": "https://www.pokebip.com/pokedex-images/300/135.png?v=ev-blueberry",
       "types": ["Électrik"],
       "height": "0.8 m",
       "weight": "24.5 kg",
-      "evolution": "N/A"
+      "description": "Voltali est l'une des évolutions d'Évoli. Il est de type Électrik et peut générer de puissantes décharges électriques.",
+      "evolution": ""
     },
     {
       "name": "Pyroli",
       "number": "#136",
-      "imageUrl": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/136.png",
+      "imageUrl": "https://www.pokebip.com/pokedex-images/300/136.png?v=ev-blueberry",
       "types": ["Feu"],
       "height": "0.9 m",
       "weight": "25.0 kg",
-      "evolution": "N/A"
+      "description": "Pyroli est l'une des évolutions d'Évoli. Il est de type Feu et peut cracher des flammes intenses.",
+      "evolution": ""
     },
     {
       "name": "Porygon",
       "number": "#137",
-      "imageUrl": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/137.png",
+      "imageUrl": "https://www.pokebip.com/pokedex-images/300/137.png?v=ev-blueberry",
       "types": ["Normal"],
       "height": "0.8 m",
       "weight": "36.5 kg",
-      "evolution": "Porygon2"
+      "description": "Porygon est un Pokémon de type Normal. Il a été créé par des scientifiques à partir de données informatiques.",
+      "evolution": ""
     },
     {
       "name": "Amonita",
       "number": "#138",
-      "imageUrl": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/138.png",
+      "imageUrl": "https://www.pokebip.com/pokedex-images/300/138.png?v=ev-blueberry",
       "types": ["Roche", "Eau"],
       "height": "0.4 m",
       "weight": "7.5 kg",
+      "description": "Amonita est un Pokémon de type Roche et Eau. Il est ressuscité à partir d'un fossile et possède des tentacules pour attraper ses proies.",
       "evolution": "Amonistar"
     },
     {
       "name": "Amonistar",
       "number": "#139",
-      "imageUrl": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/139.png",
+      "imageUrl": "https://www.pokebip.com/pokedex-images/300/139.png?v=ev-blueberry",
       "types": ["Roche", "Eau"],
       "height": "1.0 m",
-      "weight": "40.0 kg",
-      "evolution": "N/A"
+      "weight": "35.0 kg",
+      "description": "Amonistar est l'évolution d'Amonita. Avec ses tentacules puissantes, il peut capturer ses proies et les écraser avec sa coquille dure.",
+      "evolution": ""
     },
     {
       "name": "Kabuto",
       "number": "#140",
-      "imageUrl": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/140.png",
+      "imageUrl": "https://www.pokebip.com/pokedex-images/300/140.png?v=ev-blueberry",
       "types": ["Roche", "Eau"],
       "height": "0.5 m",
       "weight": "11.5 kg",
+      "description": "Kabuto est un Pokémon de type Roche et Eau. Comme Amonita, il est ressuscité à partir d'un fossile.",
       "evolution": "Kabutops"
     },
     {
       "name": "Kabutops",
       "number": "#141",
-      "imageUrl": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/141.png",
+      "imageUrl": "https://www.pokebip.com/pokedex-images/300/141.png?v=ev-blueberry",
       "types": ["Roche", "Eau"],
       "height": "1.3 m",
       "weight": "40.5 kg",
-      "evolution": "N/A"
+      "description": "Kabutops est l'évolution de Kabuto. Avec ses lames tranchantes, il est un prédateur redoutable dans l'eau.",
+      "evolution": ""
     },
     {
-      "name": "Ptera",
+      "name": "Ptéra",
       "number": "#142",
-      "imageUrl": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/142.png",
+      "imageUrl": "https://www.pokebip.com/pokedex-images/300/142.png?v=ev-blueberry",
       "types": ["Roche", "Vol"],
       "height": "1.8 m",
       "weight": "59.0 kg",
-      "evolution": "N/A"
+      "description": "Ptéra est un Pokémon de type Roche et Vol. Ressuscité à partir d'un fossile, il utilise ses ailes puissantes pour voler à grande vitesse.",
+      "evolution": ""
     },
     {
       "name": "Ronflex",
       "number": "#143",
-      "imageUrl": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/143.png",
+      "imageUrl": "https://www.pokebip.com/pokedex-images/300/143.png?v=ev-blueberry",
       "types": ["Normal"],
       "height": "2.1 m",
       "weight": "460.0 kg",
-      "evolution": "N/A"
+      "description": "Ronflex est un Pokémon de type Normal. Il passe la plupart de son temps à dormir et se réveille uniquement pour manger.",
+      "evolution": ""
     },
     {
       "name": "Artikodin",
       "number": "#144",
-      "imageUrl": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/144.png",
+      "imageUrl": "https://www.pokebip.com/pokedex-images/300/144.png?v=ev-blueberry",
       "types": ["Glace", "Vol"],
       "height": "1.7 m",
       "weight": "55.4 kg",
-      "evolution": "N/A"
+      "description": "Artikodin est un Pokémon légendaire de type Glace et Vol. Ses ailes dégagent un froid glacial, et il est souvent associé aux montagnes enneigées.",
+      "evolution": ""
     },
     {
       "name": "Électhor",
       "number": "#145",
-      "imageUrl": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/145.png",
+      "imageUrl": "https://www.pokebip.com/pokedex-images/300/145.png?v=ev-blueberry",
       "types": ["Électrik", "Vol"],
       "height": "1.6 m",
       "weight": "52.6 kg",
-      "evolution": "N/A"
+      "description": "Électhor est un Pokémon légendaire de type Électrik et Vol. Ses ailes produisent des éclairs à chaque battement, et il est souvent vu pendant les tempêtes.",
+      "evolution": ""
     },
     {
       "name": "Sulfura",
       "number": "#146",
-      "imageUrl": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/146.png",
+      "imageUrl": "https://www.pokebip.com/pokedex-images/300/146.png?v=ev-blueberry",
       "types": ["Feu", "Vol"],
       "height": "2.0 m",
       "weight": "60.0 kg",
-      "evolution": "N/A"
+      "description": "Sulfura est un Pokémon légendaire de type Feu et Vol. Il vole avec des ailes enflammées et est souvent aperçu près des volcans.",
+      "evolution": ""
     },
     {
       "name": "Minidraco",
       "number": "#147",
-      "imageUrl": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/147.png",
+      "imageUrl": "https://www.pokebip.com/pokedex-images/300/147.png?v=ev-blueberry",
       "types": ["Dragon"],
       "height": "1.8 m",
       "weight": "3.3 kg",
+      "description": "Minidraco est un Pokémon de type Dragon. Il est jeune et curieux, explorant souvent son environnement avec enthousiasme.",
       "evolution": "Draco"
     },
     {
       "name": "Draco",
       "number": "#148",
-      "imageUrl": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/148.png",
+      "imageUrl": "https://www.pokebip.com/pokedex-images/300/148.png?v=ev-blueberry",
       "types": ["Dragon"],
       "height": "4.0 m",
       "weight": "16.5 kg",
+      "description": "Draco est l'évolution de Minidraco. Ses ailes et sa queue se développent, lui permettant de voler avec grâce.",
       "evolution": "Dracolosse"
     },
     {
       "name": "Dracolosse",
       "number": "#149",
-      "imageUrl": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/149.png",
+      "imageUrl": "https://www.pokebip.com/pokedex-images/300/149.png?v=ev-blueberry",
       "types": ["Dragon", "Vol"],
       "height": "2.2 m",
       "weight": "210.0 kg",
-      "evolution": "N/A"
+      "description": "Dracolosse est l'évolution finale de Minidraco. Il est massif et peut voler à des altitudes élevées, dominant les cieux.",
+      "evolution": ""
     },
     {
       "name": "Mewtwo",
       "number": "#150",
-      "imageUrl": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/150.png",
+      "imageUrl": "https://www.pokebip.com/pokedex-images/300/150.png?v=ev-blueberry",
       "types": ["Psy"],
       "height": "2.0 m",
       "weight": "122.0 kg",
-      "evolution": "N/A"
+      "description": "Mewtwo est un Pokémon légendaire de type Psy. Créé par manipulation génétique, il possède une puissance psychique incroyable.",
+      "evolution": ""
     },
     {
       "name": "Mew",
       "number": "#151",
-      "imageUrl": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/151.png",
+      "imageUrl": "https://www.pokebip.com/pokedex-images/300/151.png?v=ev-blueberry",
       "types": ["Psy"],
       "height": "0.4 m",
       "weight": "4.0 kg",
-      "evolution": "N/A"
+      "description": "Mew est un Pokémon légendaire de type Psy. Il est extrêmement rare et possède la capacité de se transformer en n'importe quel autre Pokémon.",
+      "evolution": ""
     }
   ]
 }

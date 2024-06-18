@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/card_view"
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
-    xmlns:app="http://schemas.android.com/apk/res-auto"
-    android:id="@+id/card_view"
     android:layout_margin="5dp"
-    app:cardBackgroundColor="#81C784"
+    app:cardBackgroundColor="#2D6CDC"
     app:cardCornerRadius="12dp"
     app:cardElevation="3dp"
     app:contentPadding="4dp">
 
     <androidx.constraintlayout.widget.ConstraintLayout
+        android:id="@+id/relativeLayout"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:id="@+id/relativeLayout"
         android:padding="16dp">
 
         <ImageView
@@ -28,24 +28,24 @@
             android:id="@+id/tv_pokename"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            app:layout_constraintStart_toEndOf="@+id/img_pokemon"
-            app:layout_constraintTop_toTopOf="parent"
             android:layout_marginStart="16dp"
-            android:textColor="@color/black"
+            android:text="Pokémon"
+            android:textColor="@color/white"
             android:textSize="30sp"
             android:textStyle="bold"
-            android:text="Pokémon"/>
+            app:layout_constraintStart_toEndOf="@+id/img_pokemon"
+            app:layout_constraintTop_toTopOf="parent" />
 
         <TextView
             android:id="@+id/tv_pokenum"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            app:layout_constraintStart_toEndOf="@+id/img_pokemon"
-            app:layout_constraintTop_toBottomOf="@+id/tv_pokename"
-            android:textColor="@color/black"
-            android:layout_marginTop="8dp"
             android:layout_marginStart="16dp"
-            android:text="#001"/>
+            android:layout_marginTop="8dp"
+            android:text="#001"
+            android:textColor="@color/white"
+            app:layout_constraintStart_toEndOf="@+id/img_pokemon"
+            app:layout_constraintTop_toBottomOf="@+id/tv_pokename" />
     </androidx.constraintlayout.widget.ConstraintLayout>
 
 </androidx.cardview.widget.CardView>

@@ -1,6 +1,7 @@
 package com.example.pokemonlist
 
 import android.content.Context
+import android.content.Intent
 import android.graphics.drawable.Drawable
 import android.util.Log
 import android.view.LayoutInflater
@@ -34,28 +35,15 @@ class RecyclerAdapter(val context: Context, val items: ArrayList<Pokemon>) : Rec
         Glide.with(holder.itemView.context)
             .load(item.imageUrl)
             .placeholder(R.drawable.pokeblack)
-
             .into(holder.img_pokemon)
 
+        holder.itemView.setOnClickListener {
+            val intent = Intent(context, PokemonDetailActivity::class.java)
+            intent.putExtra("pokemon", item)
+            context.startActivity(intent)
+        }
+
         Log.e("RecyclerAdapter", "onBindViewHolder: Chargement de l'image initié")
-
-        Glide.with(holder.itemView.context)
-            .load(item.imageUrl)
-            .placeholder(R.drawable.pokeblack)
-            .into(object : CustomViewTarget<ImageView, Drawable>(holder.img_pokemon) {
-                override fun onLoadFailed(errorDrawable: Drawable?) {
-                    Log.e("RecyclerAdapter", "Glide onLoadFailed: Impossible de charger l'image depuis l'URL: ${item.imageUrl}") // à partir de #032
-                }
-
-                override fun onResourceCleared(placeholder: Drawable?) {
-                    Log.e("RecyclerAdapter", "Glide onResourceCleared: Ressource d'image nettoyée")
-                }
-
-                override fun onResourceReady(resource: Drawable, transition: Transition<in Drawable>?) {
-                    Log.e("RecyclerAdapter", "Glide onResourceReady: Image chargée depuis l'URL: ${item.imageUrl}")
-                    holder.img_pokemon.setImageDrawable(resource)
-                }
-            })
     }
 
     override fun getItemCount(): Int {
@@ -68,6 +56,7 @@ class RecyclerAdapter(val context: Context, val items: ArrayList<Pokemon>) : Rec
         var tv_pokenum: TextView = itemView.findViewById(R.id.tv_pokenum)
     }
 }
+
 
 
 
